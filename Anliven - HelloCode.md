@@ -9,8 +9,9 @@
 - 了解业务背景和逻辑；
 
 
+
 ### 工具使用
-- [Source Insight - 具有强劲的代码浏览和分析功能](https://www.sourceinsight.com)
+- [Source Insight - 具有强劲的代码浏览和分析功能](http://www.cnblogs.com/anliven/p/7545972.html)
 - [grepm命令 - 用于全局搜索](http://www.cnblogs.com/anliven/articles/6018442.html)
 - [IDE - 利用代码结构分析功能或插件生成UML图](http://www.cnblogs.com/anliven/p/7465430.html)
 - [浏览器插件Octotree - 树形结构显示Github项目](https://github.com/buunguyen/octotree/)
@@ -18,6 +19,7 @@
 - [Python Call Graph - 生成python函数调用关系图](http://pycallgraph.slowchop.com/)
 - [GNU GLOBAL - a source code tagging system](https://www.gnu.org/software/global/)
 - ......
+
 
 
 ### 准备动作
@@ -30,6 +32,7 @@
 2. 确认辅助信息来源：官方文档、项目文档、搜索引擎等；
 3. 确认代码版本（早期版本或当前能够理解的版本）和编码风格；
 4. ...... 
+
 
 
 ### 一些方法和注意事项
@@ -55,6 +58,7 @@
 - 理解项目作者的思考方式，
 - 低头专注代码，抬头思考架构，从整体的角度来看待局部实现的过程；
 - ......
+
 
 
 ### 下一步
