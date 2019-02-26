@@ -1,29 +1,28 @@
 # Hello, Code！
 
-
-
-### 初始能力
+## 初始能力
 让阅读思路保持清晰连贯，主力关注在流程架构和逻辑实现上，不被语法、技巧和业务流程等频繁地阻碍和打断。
-- 语言基础：熟悉基础语法，常用的函数、库、技巧等；
-- 了解设计模式、编程和构建工具、代码风格；
+建议基本满足以下条件，再开始进行代码阅读：
+- 具备一定的语言基础：熟悉基础语法，常用的函数、库等；
 - 了解业务背景和逻辑；
+- 了解设计模式、熟悉编程和构建工具的使用、了解代码风格；
 
 
 
-### 工具使用
+## 工具使用
 - [Source Insight - 具有强劲的代码浏览和分析功能](http://www.cnblogs.com/anliven/p/7545972.html)
+- [Doxygen - 项目文档工具](https://www.cnblogs.com/anliven/p/6733434.html)
 - [grep命令 - 用于全局搜索](http://www.cnblogs.com/anliven/articles/6018442.html)
-- [IDE - 利用代码结构分析功能或插件生成UML图](http://www.cnblogs.com/anliven/p/7465430.html)
-- [浏览器插件Octotree - 树形结构显示Github项目](https://github.com/buunguyen/octotree/)
-- [Python Call Graph - 生成python函数调用关系图](http://pycallgraph.slowchop.com/)
-- [Doxygen - 项目文档工具](http://www.doxygen.nl/)
+- [利用代码结构分析功能或插件生成UML图](http://www.cnblogs.com/anliven/p/7465430.html)
+- [Python Call Graph - 生成python函数调用关系图](https://www.cnblogs.com/anliven/p/10004665.html)
 - [代码转换成流程图 - 在线工具](https://code2flow.com/)
-
+- [浏览器插件Octotree - 直观显示Github项目树形结构](https://github.com/buunguyen/octotree/)
+- [浏览器插件Git History - 直观显示Github项目历史记录](https://github.com/pomber/git-history)
 - ......
 
 
 
-### 准备动作
+## 准备动作
 **明确问题与需求:**
 ```
 - 为什么要阅读源代码？要解决什么具体问题？要达到怎样的程度和效果？
@@ -38,7 +37,8 @@
 ```
 
 
-### 方法和注意事项
+
+## 方法和注意事项
 问题需求、资源投入、项目状态的不同，适用的阅读方法和工具自然也就不同。
 直接啃代码的方式适合解决具体的细节问题，简单粗暴，速度快效果好。
 但如果想完整而深入地了解一个有规模和难度的项目，又该如何进行呢？
@@ -66,7 +66,8 @@
 简而言之，也就是“因人而异，因地制宜”，有效的才是合适的。
 
 
-### 下一步
+
+## 下一步
 - **关注原型**
 ```
     最终展现的软件往往是“原型程序”经过精心包装和美化的结果。
